@@ -40,5 +40,26 @@ ul a{
 }
 header ul li{
     padding: 10px;
-    margin-left: 40px;
+    margin-left: 50px;
+}
+header .signIn{
+    height: 40px;
+    width: 102px;
+    
+    border: 1px solid #212832;
+    box-sizing: border-box;
+    border-radius: 5px;
+    text-align: center;
+}
+.mainPage{
+    height: 764px;
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.mainPage section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
