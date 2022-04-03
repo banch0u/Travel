@@ -57,6 +57,7 @@ header .signIn{
     margin: auto;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 97px;
 }
 .mainPage section{
     display: flex;
